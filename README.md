@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm soberDevEddie 👋
 
 Welcome to my GitHub profile! I'm transitioning from the automotive industry to web development, and I'm excited to share my journey with you. I am dedicated to learning about the MERN tech stack and React, committing 11 hours a week to focused study and class sessions through Udemy courses.
 
